@@ -1,0 +1,8 @@
+pymongo
+langchain
+langchain-ollama
+langchain-core
+ollama
+numpy
+ffmpeg-python
+#py -v 3.10 to 3.12
