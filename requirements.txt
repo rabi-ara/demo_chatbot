@@ -5,4 +5,6 @@ langchain-core
 ollama
 numpy
 ffmpeg-python
+uvicorn
+fastapi
 #py -v 3.10 to 3.12
